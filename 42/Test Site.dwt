@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Light Theme</title>
+<!-- TemplateEndEditable -->
+<link href="../css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="">
+    <h4 class="logo">No Name Yet I'm Working On It</h4>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#hero">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li> <a href="#contact">Social Media</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Main Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header">Tevin's <span class="light">Website</span></h2>
+    <p class="tagline">
+	  Color Looks Weird</p>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+    <h2 class="hidden">About</h2>
+    <p class="text_column">Awesome Stuff </p>
+    <p class="text_column">This Looks Good </p>
+    <p class="text_column">Link Page </p>
+  </section>
+  <!-- Stats Gallery Section -->
+<div class="gallery">
+    <div class="thumbnail">
+      <h1 class="stats">Theories</h1>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">Mysteries</h1>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">Facts</h1>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">Space Stuff</h1>
+      <p>One line description</p>
+    </div>
+  </div>
+  <!-- Space Section -->
+  <section class="banner">
+    <h2 class="Break Line"><strong>Looks Rough</strong></h2>
+    <p class="Test">
+	  what exactly is this</p>
+  </section>
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>Pictures</h3>
+      <img src=https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot6-1920x1080-ff435ff202ffd7d20f6e920dc8e2ba68.png alt="" width="400" height="200" class="cards"/>
+      <p>Sample Design </p>
+</article>
+    <article class="footer_column">
+		<h2>Don't know what to throw in here</h2>
+<img src="https://i.pinimg.com/originals/bb/86/85/bb86850e8e257d9d5b8d6ac1800957bf.jpg" alt="" width="400" height="200" class="cards"/>
+<p>Design Procesing Mode </p>
